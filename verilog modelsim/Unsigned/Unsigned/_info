@@ -1,0 +1,43 @@
+m255
+K3
+13
+cModel Technology
+Z0 dD:\Programs\installed\New folder (3)
+vmain
+!i10b 1
+!s100 a3T:>Yaz?@3JG?b?U`k590
+IPKOUFihfz=Ge8?VeZJzG[1
+VWQC5VcA;ogI2X00@cRjSB0
+Z1 dD:\Programs\installed\New folder (3)\Unsigned
+w1684773417
+8D:/Programs/installed/New folder (3)/Unsigned/design.v
+FD:/Programs/installed/New folder (3)/Unsigned/design.v
+L0 2
+Z2 OV;L;10.1d;51
+r1
+!s85 0
+31
+!s108 1684773417.639000
+!s107 D:/Programs/installed/New folder (3)/Unsigned/design.v|
+!s90 -reportprogress|300|-work|Unsigned|D:/Programs/installed/New folder (3)/Unsigned/design.v|
+!s101 -O0
+Z3 o-work Unsigned -O0
+vmain_tb
+Z4 IWz@cT5L<3VGGldCPJG@B>2
+Z5 VDFCamQe8X=<UABF>6bJ7X2
+R1
+Z6 w1684773406
+Z7 8D:/Programs/installed/New folder (3)/Unsigned/tb.v
+Z8 FD:/Programs/installed/New folder (3)/Unsigned/tb.v
+L0 2
+R2
+r1
+31
+R3
+!i10b 1
+Z9 !s100 V:MQaV6<_09DdQj=K9IWe2
+!s85 0
+Z10 !s108 1684773413.543000
+Z11 !s107 D:/Programs/installed/New folder (3)/Unsigned/tb.v|
+Z12 !s90 -reportprogress|300|-work|Unsigned|D:/Programs/installed/New folder (3)/Unsigned/tb.v|
+!s101 -O0

@@ -1,0 +1,15 @@
+{D:/Programs/installed/New folder (3)/Signed/design.v} {1 {vlog -work Signed {D:/Programs/installed/New folder (3)/Signed/design.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module main
+
+Top level modules:
+	main
+
+} {} {}} {D:/Programs/installed/New folder (3)/Signed/tb.v} {1 {vlog -work Signed {D:/Programs/installed/New folder (3)/Signed/tb.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module main_tb
+
+Top level modules:
+	main_tb
+
+} {} {}}
